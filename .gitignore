@@ -1,0 +1,6 @@
+config.json
+.qiniu_pythonsdk_hostscache.json
+test/
+build/
+dist/
+qnsync.egg-info/
