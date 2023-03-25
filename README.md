@@ -30,3 +30,7 @@
 - `bucket_name`: 七牛云的储存空间名
 - `monitor_path`: 监控的目录
 - `base_dir`: 七牛云储存的根目录
+
+## 仓库
+- `PyPi`: [https://pypi.org/project/qnsync/](https://pypi.org/project/qnsync/)
+- `GitHub`: [https://github.com/Gingmzmzx/qnsync](https://github.com/Gingmzmzx/qnsync)

@@ -5,7 +5,7 @@ with open("README.md") as f:
 
 setup(
     name='qnsync',
-    version='0.3',
+    version='0.4',
     author='xzyStudio',
     author_email='gingmzmzx@gmail.com',
     description='Sync file to qiniu kodo',
